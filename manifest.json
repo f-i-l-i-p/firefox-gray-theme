@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "version": "1.1",
+  "name": "gray",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(190, 187, 184)",
+      "toolbar_text": "rgb(0, 0, 0)",
+      "frame": "rgb(68, 68, 68)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(190, 187, 184)",
+      "toolbar_field_text": "rgb(0, 0, 0)",
+      "tab_line": "rgb(0, 0, 0)",
+      "popup": "rgb(255, 255, 255)",
+      "popup_text": "rgb(0, 0, 0)",
+      "tab_loading": "rgb(0, 0, 0)"
+    }
+  }
+}
